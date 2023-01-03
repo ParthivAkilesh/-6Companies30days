@@ -1,3 +1,4 @@
+package Microsoft;
 class Solution {
     public double nthPersonGetsNthSeat(int n) 
     {
